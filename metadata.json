@@ -1,0 +1,8 @@
+{
+  "name": "AI Retail Analytics & Decision Support System",
+  "description": "An end-to-end AI-powered retail analytics and decision support system featuring real-time dashboards, sales forecasting, customer segmentation, and a Generative AI chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
